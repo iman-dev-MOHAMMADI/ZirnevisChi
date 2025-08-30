@@ -1,6 +1,6 @@
 # Conversational AI Voice Analyst (Telegram Bot)
 
-This repository contains the source code for a sophisticated Telegram bot that transforms audio and video files into intelligent, interactive conversations. The bot leverages a multi-stage processing pipeline, including speaker diarization and a stateful conversational agent built with **LangGraph** and powered by **Google's Gemini 1.5 Flash**, to provide deep analysis of spoken content.
+This repository contains the source code for a sophisticated Telegram bot that transforms audio and video files into intelligent, interactive conversations. The bot leverages a multi-stage processing pipeline, including speaker diarization and a stateful conversational agent built with **LangGraph** and powered by **Google's Gemini 2.5 Flash**, to provide deep analysis of spoken content.
 
 ## 🖼️ Bot Preview Gallery
 
